@@ -170,4 +170,8 @@ x=0.35,
 y=0)
 ]
 )
+<<<<<<< HEAD
 fig.write_html('templates/dashboard.html')
+=======
+fig.write_html('templates/quedivertidoesesteejercicio.html')
+>>>>>>> branch-ticket-3-2
